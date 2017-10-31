@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hi CR</string>
+    <string name="username">Enter your username</string>
+    <string name="password">Enter your password</string>
+</resources>
